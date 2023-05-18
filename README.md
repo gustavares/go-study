@@ -43,6 +43,15 @@ Obviously there could a million edge case scenarios.
 - -list to list chats
 - -c [chat name] to keep asking questions into the same chat
 
+### YTP CLI
+
+A study time tracker as a CLI app.
+The YTP mobile is cool but they don't have a desktop one. I'd like something simple like that to keep track of my study.
+
+#### Feature priority
+- [ ] Simple time tracker by topic
+- [ ] To-do list by date by topic
+
 ## Some resources
 - Simple references https://gobyexample.com/
 - Deeper references https://go.dev/doc/effective_go
